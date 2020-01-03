@@ -1,11 +1,17 @@
 # Dal Hotels
 
-Dal Hotels : A hotel booking website
 
-•	Group members: Student Name: Agbola Iseoluwatobi : Student ID: B00802526
+
+  **Contributors**
+  
+• Student Name: Agbola Iseoluwatobi : Student ID: B00802526
+
 •	Student Name: Devine William A : Student ID: B00738273
+
 •	Student Name: Javadi Nithisha : Student ID: B00824058
+
 •	Student Name: Jayachandran Sithara : Student ID: B00824470
+
 •	Student Name: Yang Shuo : Student ID: B00606093
 
 Place : Dalhousie university
