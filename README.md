@@ -14,7 +14,7 @@
 
 •	Student Name: Yang Shuo : Student ID: B00606093
 
-Place : Dalhousie university
+ Place : Dalhousie university
 
 
 **Project Summary**
@@ -42,15 +42,6 @@ their points as their points build up.
 • A site manager can add or remove new rooms.
 
 • User can register, login, and update their profiles.
-
-## Frameworks and technologies 
-
-* Boostrap: This is a powerful and popular CSS framwork with and all my groupmates had experience with this framework
-
-* Angular 7: This is a power MVC Javascript Framework and most of my team members had good experience with this framework
-
-* Firebase: This a google cloud product that give application functionalities like NoSql databases, analytics and other features 
-
 
 
 **References**
